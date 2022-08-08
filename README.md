@@ -1,7 +1,6 @@
 Problem Statement:-
-![WhatsApp Image 2022-06-30 at 11 39 57 AM](https://user-images.githubusercontent.com/110478082/183480717-87c63bcb-a3af-4847-96b0-eeafc2511df7.jpeg)
 
- We are all well aware about Cortana, Siri, Google Assistant and many other virtual 
+We are all well aware about Cortana, Siri, Google Assistant and many other virtual 
 assistants which are designed to aid the tasks of users in Windows, Android and iOS 
 platforms. But to our surprise, there’s no such complete virtual assistant available for Core 
 Windows platform consisting of 70% of the users. So, this is actually a major problem for
